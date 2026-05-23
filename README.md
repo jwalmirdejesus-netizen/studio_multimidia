@@ -1,6 +1,6 @@
 # 🎵 Studio Multimídia
 
-https://github.com/jwalmirdejesus-netizen/studio_multimidia/blob/main/Screenshot_20260523-105916.jpg
+https://raw.githubusercontent.com/jwalmirdejesus-netizen/studio_multimidia/main/Screenshot_20260523-105916.jpg
 
 Um estúdio criativo completo que roda no seu navegador. Feito para celular primeiro, com design dark, rápido e sem precisar instalar nada.
 
