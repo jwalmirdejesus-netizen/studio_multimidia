@@ -46,7 +46,7 @@ Um estúdio criativo completo que roda no seu navegador. Feito para celular prim
 
 ![Studio Multimídia](Screenshot_20260909-202542.jpg)
 
-![Studio Multimídia]
+![Studio Multimídia](Screenshot_20260909-202559.jpg)
 
 ![Studio Multimídia]
 
