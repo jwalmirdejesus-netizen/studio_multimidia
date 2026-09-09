@@ -42,7 +42,9 @@ Um estúdio criativo completo que roda no seu navegador. Feito para celular prim
 - Iframe sandbox para ferramentas modulares
 - PWA-ready
 
-![Studio Multimídia]
+# Screenshots 
+
+![Studio Multimídia](Screenshot_20260909-202542.jpg)
 
 ![Studio Multimídia]
 
