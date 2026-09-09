@@ -41,3 +41,19 @@ Um estúdio criativo completo que roda no seu navegador. Feito para celular prim
 - IndexedDB para armazenamento
 - Iframe sandbox para ferramentas modulares
 - PWA-ready
+
+![Studio Multimídia]
+
+![Studio Multimídia]
+
+![Studio Multimídia]
+
+![Studio Multimídia]
+
+![Studio Multimídia]
+
+![Studio Multimídia]
+
+![Studio Multimídia]
+
+![Studio Multimídia]
