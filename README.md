@@ -1,5 +1,5 @@
 # 🎵 Studio Multimídia
-https://studiomutimidia.netlify.app/
+https://studio-multimidia.htmly.com.br/
 
 ![Studio Multimídia](https://raw.githubusercontent.com/jwalmirdejesus-netizen/studio_multimidia/main/Screenshot_20260523-105916.jpg)
 
